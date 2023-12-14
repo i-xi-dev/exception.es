@@ -1,4 +1,3 @@
-
 class InvalidCharacterError extends Error {
   constructor(message?: string) {
     super(message);
